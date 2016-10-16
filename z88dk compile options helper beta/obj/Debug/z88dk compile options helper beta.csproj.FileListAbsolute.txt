@@ -1,0 +1,26 @@
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\bin\Debug\z88dk compile options helper beta.exe.config
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\bin\Debug\z88dk compile options helper beta.exe
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\bin\Debug\z88dk compile options helper beta.pdb
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.AboutBox1.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.option_preserve.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.compiler_choice.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.floating_point.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.Form1.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.List_wizard.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.optimization.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.output_file.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.Output_Media.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.Properties.Resources.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.quick_start.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.target.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.terminal_driver.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.verbose_options.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.zorg.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk compile options helper beta.csproj.GenerateResource.Cache
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk compile options helper beta.exe
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk compile options helper beta.pdb
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.Miscellaneous.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.Preprocessor.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\obj\Debug\z88dk_compile_options_helper_beta.files_to_compile.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\bin\Debug\z88dk compile options helper beta.exe.CodeAnalysisLog.xml
+C:\Users\Andy\documents\visual studio 2012\Projects\z88dk compile options helper beta\z88dk compile options helper beta\bin\Debug\z88dk compile options helper beta.exe.lastcodeanalysissucceeded
